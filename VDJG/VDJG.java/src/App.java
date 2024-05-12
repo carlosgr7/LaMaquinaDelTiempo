@@ -12,7 +12,7 @@ import Clases.LaTrama;
 import Clases.Reglas;
 import Clases.Perder;
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception { //comienzo de la main
         Scanner scan = new Scanner (System.in);
         char tecla='a';
         int [] numRespuestas={1,2,3,4};
